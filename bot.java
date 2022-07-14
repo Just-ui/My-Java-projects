@@ -45,7 +45,6 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        // write your code here
         boolean active = true;
         while (active) {
             System.out.println("Why do we use methods?");
@@ -64,6 +63,6 @@ public class SimpleBot {
     }
 
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!"); 
     }
 }
